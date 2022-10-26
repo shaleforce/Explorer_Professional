@@ -1,2 +1,6 @@
-# Explorer_Professional
-Quick start and additional training resources for the Explorer and Professional Subscription
+# Shaleforce Explorer/Professional Subscription
+## Quick Start
+
+ToDo
+
+## Additional Training Resources
